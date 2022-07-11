@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom:20px;
+   }
+
+   .header h1{
+    color: #fc3c3c;
+    font-size: 2rem;
+   }
+
+   .header__dropdown{
+    background-color: white;
+   }
